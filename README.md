@@ -26,11 +26,6 @@
 
 ## Model Performance
 
-* precision    recall  f1-score   support
-
-           0       0.81      0.96      0.88      1040
-           1       0.77      0.35      0.48       368
-
-    accuracy                           0.80      1408
-   macro avg       0.79      0.65      0.68      1408
-weighted avg       0.80      0.80      0.77      1408 *
+Accuracy = 80%.
+Sencitivity = 35%.
+Specificity = 96%.
