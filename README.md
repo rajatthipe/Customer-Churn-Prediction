@@ -8,7 +8,7 @@
 *   **Preprocessing:** Label Encoding
 *   **Model Selection & Tuning:** Grid Search CV
 *   **Trend Analysis:** Subburst analysis
-*   
+
 ## Model Development
 
 1.  **Data Exploration and Analysis:** Includes trend analysis by examining subbursts of the data (e.g., analyzing churn rates within specific time periods. This helped identify patterns and potential drivers of churn.
